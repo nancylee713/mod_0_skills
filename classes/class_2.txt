@@ -1,4 +1,4 @@
-Class: School B
+Class #2: School B
 
 Attributes
 -schoolName (string)

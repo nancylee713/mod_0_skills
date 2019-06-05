@@ -1,4 +1,4 @@
-Class: School B
+Object #2: School B
 
 Attributes
 -schoolName (string): "Cherry Creek High School"

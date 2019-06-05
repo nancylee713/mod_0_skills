@@ -1,4 +1,4 @@
-Class: School
+Class #1: School A
 
 Attributes
 - schoolName (string)
