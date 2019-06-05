@@ -1,0 +1,16 @@
+Class: School B
+
+Attributes
+-schoolName (string): "Cherry Creek High School"
+-facultySize (integer): 176
+-grades (array): [9, 10, 11, 12]
+-public (boolean): true
+-established (datetime): 1995-09-06
+-principalName (string): "Ryan Silva"
+
+
+Methods
+-addNewGrades: [9, 10, 11, 12, 8]
+-isPublic: true
+-modifyFacultySize: 180
+-changePrincipal: "David R"
