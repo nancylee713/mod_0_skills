@@ -10,7 +10,7 @@ Attributes
 
 
 Methods
--addNewGrades
--isPublic
--modifyFacultySize
--changePrincipal
+-addNewGrades (add a new grade level)
+-isPublic: (check the value of public attribute)
+-modifyFacultySize (modify # of teaching staff)
+-changePrincipal (replace with a new principal name)
