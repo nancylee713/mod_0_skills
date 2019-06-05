@@ -1,0 +1,17 @@
+Class: School
+
+Attributes
+- schoolName (string)
+- numberOfStudents (integer)
+- studentTeacherRatio (string)
+- coEd (Boolean)
+- startDate (datetime)
+- tuition (float)
+- facultyCatalogue (array)
+
+Methods
+- addNewStudent (numberOfStudents + 1)
+- changeStartDate (startDate +/- x days)
+- increaseTuition (tuition + tuition * x%)
+- isCoEd (check the value of coEd attribute)
+- addFaculty (add new teachers to facultyCatalogue attribute)
