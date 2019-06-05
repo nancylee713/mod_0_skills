@@ -1,0 +1,18 @@
+Object: School A
+
+Attributes
+- schoolName (string): "Denver Academy"
+- numberOfStudents (integer): 390
+- studentTeacherRatio (string): "7:1"
+- coEd (Boolean): true
+- startDate (datetime): 2019-08-24
+- tuition (float): 30150.00
+- facultyCatalogue (array): [Mark T, Susan H, Jeff K, ...]
+
+
+Methods
+- addNewStudent (numberOfStudents + 1): 391
+- changeStartDate (startDate +/- x days): 2019-08-30
+- increaseTuition (tuition + tuition * x%): 30300.50
+- isCoEd (check the value of coEd attribute): false
+- addFaculty (add new teachers to facultyCatalogue attribute): [Mark T, Susan H, Jeff K, ... , John S]
