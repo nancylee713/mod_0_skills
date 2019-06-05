@@ -1,0 +1,16 @@
+Class: School B
+
+Attributes
+-schoolName (string)
+-facultySize (integer)
+-grades (array)
+-public (boolean)
+-established (datetime)
+-principalName (string)
+
+
+Methods
+-addNewGrades
+-isPublic
+-modifyFacultySize
+-changePrincipal
