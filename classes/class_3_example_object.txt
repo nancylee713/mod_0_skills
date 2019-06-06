@@ -1,0 +1,38 @@
+Object #1: Dining Chair
+
+Attributes
+- product_name = "Stefan"
+- color = "dark grey"
+- total_price = 69.99
+- seat_height = 42
+- seat_height_adjustable = true
+- availability = false
+
+
+Methods
+- change_product_name => "Bernhard"
+- change_color => "beige"
+- discount_price => 60.00
+- increase_seat_height => 50
+- is_height_adjustable => false
+- is_available => true
+
+
+Object #2: Desk Chair
+
+Attributes
+- product_name = "Ekedalen"
+- color = "white"
+- total_price = 100.50
+- seat_height = 60
+- seat_height_adjustable = true
+- availability = false
+
+
+Methods
+- change_product_name => "Henriksdal"
+- change_color => "light grey"
+- discount_price => 79.99
+- increase_seat_height => 75
+- is_height_adjustable => false
+- is_available => true

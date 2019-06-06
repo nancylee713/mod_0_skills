@@ -1,0 +1,18 @@
+Class: Chair
+
+Attributes
+- product_name (string)
+- color (string)
+- total_price (float)
+- seat_height (integer)
+- seat_height_adjustable (boolean)
+- availability (boolean)
+
+
+Methods
+- change_product_name (modify product_name attribute)
+- discount_price (calculate total_price * discount %)
+- change_color (modify color attribute)
+- increase_seat_height (increase seat_strength by x lbs)
+- is_height_adjustable (check the value of seat_height_adjustable)
+- is_available (check the value of availability attribute)
